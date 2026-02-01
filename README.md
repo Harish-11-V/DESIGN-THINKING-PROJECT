@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/HarishKumarV/HarishKumarV/main/assets/image.svg" />
+  <img src="https://raw.githubusercontent.com/Harish-11-V/DESIGN-THINKING-PROJECT/main/asset/image.gif" alt="Animated Banner" width="900" />
 </p>
 
 <h1 align="center">🌱 GenAI Sustainability Intelligence Assistant</h1>
