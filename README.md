@@ -46,7 +46,7 @@ The assistant retrieves relevant domain information from a structured knowledge 
 ## 🛠️ Tech Stack
 
 ### 🤖 AI / NLP
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/LLM-Generative%20AI-blueviolet?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-0A66C2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-00897B?style=for-the-badge" />
@@ -56,7 +56,7 @@ The assistant retrieves relevant domain information from a structured knowledge 
 ---
 
 ### 💻 Backend
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/FAISS-Vector%20Database-4B8BBE?style=for-the-badge" />
   <img src="https://img.shields.io/badge/ChromaDB-Vector%20Store-FF6F00?style=for-the-badge" />
@@ -66,7 +66,7 @@ The assistant retrieves relevant domain information from a structured knowledge 
 ---
 
 ### 🌐 Frontend (Optional / Extendable)
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
@@ -77,7 +77,7 @@ The assistant retrieves relevant domain information from a structured knowledge 
 ---
 
 ### ⚙️ Tools
-<p align="left">
+<p align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
