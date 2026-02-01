@@ -1,4 +1,4 @@
-# DESIGN-THINKING-PROJECT
+<h1 align="center">🌱 DESIGN THINKING & INNOVATION PROJECT</h1>
 
 ---
 
